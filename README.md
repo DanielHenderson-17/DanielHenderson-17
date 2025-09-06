@@ -11,7 +11,7 @@ I am an agile learner and software developer with 10+ years of professional expe
 - [Zombie Lynx Gaming](https://zlg.gg/) - Zombie Lynx Gaming website with Discord integration
 - [Apiflix](https://apiflix.netlify.app) - Movie streaming app using React that those shows some fun visuals
 - [Prattle](https://prattle.netlify.app) - Chat Engine that you can log in with Facebook or Google and chat with others
-- [Things To DO](https://things-to-do1.netlify.app) - This is a simple checklist app using React to keep track of your tasks
+- [Bliss Relaxation App]([https://things-to-do1.netlify.app](https://bliss-app.netlify.app/)) - Bliss Relaxation App is an app to mediate in different environments
 
 ## Recommended Reading
 Most Influencial Books:
